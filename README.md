@@ -1,2 +1,2 @@
-# go-routine-sample
-go routineのsample
+# goroutine-sample
+goroutineのsample
